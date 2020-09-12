@@ -1,0 +1,259 @@
+[INFO ] 2020-08-18 11:32:58.619 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 11:33:55.524 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 13:09:00.871 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 13:09:59.217 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 13:10:19.434 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 14:59:47.170 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 15:00:16.770 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 15:00:21.419 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 15:04:37.122 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 15:04:48.887 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 15:04:52.231 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 15:05:12.891 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 15:05:31.171 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 15:07:32.404 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 15:07:43.936 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 15:07:47.865 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 15:08:08.564 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 15:08:24.090 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 15:08:34.358 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 15:08:41.077 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 15:08:47.662 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-18 15:08:57.905 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-18 15:10:23.599 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 15:10:34.500 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 15:10:37.895 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 15:10:58.882 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 15:11:14.236 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 15:11:24.503 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 15:11:33.975 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 15:53:35.230 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 15:53:50.507 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 15:54:33.068 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 15:54:37.075 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 15:55:16.623 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 15:55:33.263 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 15:55:34.238 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-18 15:55:44.488 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 15:55:51.325 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 15:55:57.832 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-18 16:04:08.075 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 16:04:11.127 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 16:04:24.095 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 16:04:28.603 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 16:04:49.442 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 16:05:05.522 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 16:05:06.265 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-18 16:05:16.528 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 16:05:23.300 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 16:05:29.748 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-18 16:05:30.615 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-18 16:05:40.832 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-18 16:05:44.169 [main] TC_Base_Class - NewPassword is entered successfully in Page2
+[INFO ] 2020-08-18 16:05:47.531 [main] TC_Base_Class - Confirm Password is entered successfully in Page2
+[INFO ] 2020-08-18 16:05:48.160 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page4
+[INFO ] 2020-08-18 16:05:58.321 [main] TC_Base_Class - Registration is successful
+[INFO ] 2020-08-18 16:51:18.448 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 16:51:23.073 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 16:51:37.138 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 16:51:42.757 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 16:52:04.030 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 16:52:20.612 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 16:52:26.529 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-18 16:52:36.776 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 16:55:09.748 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 16:55:10.783 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 16:55:21.636 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 16:55:25.529 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 16:55:46.277 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 16:56:01.815 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 16:56:04.295 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-18 16:56:14.543 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 16:56:21.469 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 16:56:27.948 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-18 16:56:28.623 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-18 16:56:38.741 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-18 17:03:41.101 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 17:03:48.356 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 17:04:06.431 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 17:04:10.823 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 17:04:38.819 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 17:04:54.762 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 17:04:55.433 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-18 17:05:05.677 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 17:05:12.586 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 17:05:19.048 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-18 17:05:50.168 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-18 17:06:00.343 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-18 17:11:46.310 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 17:11:48.683 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 17:12:01.207 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 17:12:06.323 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 17:12:59.936 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 17:13:16.400 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 17:13:17.407 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-18 17:13:27.711 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 17:13:34.544 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 17:13:41.038 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-18 17:13:52.818 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-18 17:14:05.318 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-18 19:53:29.988 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 19:53:41.454 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 19:53:55.662 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 19:54:02.163 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 19:54:24.446 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 19:54:50.601 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 19:54:51.504 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-18 19:55:01.809 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 19:55:09.117 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 19:55:15.601 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-18 19:55:16.482 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-18 19:55:26.597 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-18 19:59:36.356 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-18 19:59:36.417 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 19:59:42.361 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 19:59:53.628 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 19:59:57.460 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 20:00:17.972 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 20:00:35.184 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 20:00:36.492 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-18 20:00:46.968 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 20:00:54.211 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 20:01:01.151 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-18 20:01:02.288 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-18 20:01:12.486 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-18 21:09:57.819 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-18 21:09:57.867 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 21:10:05.823 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 21:10:25.002 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 21:10:31.838 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 21:10:53.893 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 21:11:11.022 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 21:11:17.751 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-18 21:11:29.046 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 21:11:36.065 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 21:11:42.509 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-18 21:11:43.160 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-18 21:11:53.273 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-18 21:52:52.708 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-18 21:52:52.856 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 21:53:13.769 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 21:53:52.139 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 21:53:58.310 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 21:54:20.918 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 21:54:37.181 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 21:54:39.978 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-18 21:54:50.310 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 21:54:58.481 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 21:55:04.972 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-18 21:55:30.909 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-18 21:55:47.333 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-18 22:05:40.169 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-18 22:05:40.263 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 22:05:43.640 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 22:06:14.997 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 22:06:19.605 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 22:06:41.043 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 22:06:58.005 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 22:06:59.114 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-18 22:07:09.369 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 22:07:16.549 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 22:07:23.020 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-18 22:07:23.943 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-18 22:07:34.062 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-18 22:12:29.987 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-18 22:12:30.092 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 22:12:34.222 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 22:12:45.457 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 22:12:50.465 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 22:13:11.548 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 22:13:27.312 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 22:13:28.001 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-18 22:13:38.234 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 22:13:45.217 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 22:13:51.706 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-18 22:13:52.657 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-18 22:14:02.780 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-18 22:23:21.766 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-18 22:23:21.836 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 22:23:36.469 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 22:23:51.724 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 22:27:31.730 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-18 22:27:31.791 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 22:27:58.072 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 22:28:09.772 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 22:28:15.883 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 22:28:37.298 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 22:28:54.077 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 22:28:54.833 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-18 22:29:05.153 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 22:29:12.384 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 22:29:18.887 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-18 22:29:19.634 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-18 22:29:29.767 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-18 22:32:32.595 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-18 22:32:32.638 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 22:32:33.893 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 22:32:45.342 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 22:32:50.372 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 22:33:11.568 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 22:33:27.732 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 22:33:28.650 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-18 22:33:39.041 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 22:33:46.543 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 22:33:53.262 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-18 22:33:54.080 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-18 22:34:04.278 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-18 22:34:34.549 [main] TC_Base_Class - NewRegistration_Passport_Page Execution Failed
+[ERROR] 2020-08-18 22:34:34.549 [main] TC_Base_Class - element not interactable
+  (Session info: chrome=84.0.4147.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OJOQL60', ip: '192.168.1.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:50393}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 1295d8ac407b73c49b44e049395593c8
+[INFO ] 2020-08-18 22:34:35.766 [main] TC_Base_Class -  FAILED ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-18 22:47:16.934 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-18 22:47:17.050 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 22:47:22.248 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 22:47:38.585 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 22:47:43.941 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 22:48:05.391 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 22:48:21.461 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 22:48:22.384 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-18 22:48:32.761 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 22:48:40.694 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 22:48:47.451 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-18 22:48:48.357 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-18 22:48:58.531 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-18 22:49:28.754 [main] TC_Base_Class - NewRegistration_Passport_Page3 is Failed
+[ERROR] 2020-08-18 22:49:28.755 [main] TC_Base_Class - element not interactable
+  (Session info: chrome=84.0.4147.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OJOQL60', ip: '192.168.1.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:50486}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f42be0ef2c7031bea7955a759651eb5f
+[INFO ] 2020-08-18 22:49:29.936 [main] TC_Base_Class -  FAILED ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-18 22:53:27.418 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-18 22:53:27.485 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-18 22:53:36.198 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-18 22:53:49.336 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-18 22:53:54.836 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-18 22:54:16.438 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-18 22:54:33.022 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-18 22:54:33.984 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-18 22:54:44.398 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-18 22:54:51.759 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-18 22:54:58.497 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-18 22:54:59.353 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-18 22:55:09.593 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-18 22:55:39.834 [main] TC_Base_Class - NewRegistration_Passport_Page3 is Failed
+[ERROR] 2020-08-18 22:55:39.835 [main] TC_Base_Class - element not interactable
+  (Session info: chrome=84.0.4147.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OJOQL60', ip: '192.168.1.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:50582}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6c5235f51a27282587d345cca938010a
+[INFO ] 2020-08-18 22:55:40.702 [main] TC_Base_Class -  FAILED ScreenShot Saved Successfully for : NewRegistration_Passport_Page4

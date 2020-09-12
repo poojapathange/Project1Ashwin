@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Hassantuk">
+  <parameter name="Browser" value="Chrome"/>
+  
+   <classes>
+       
+       <class name="Hassantuk_Registration_TestCases.TC_NewRegistration_Passport"/> 
+       
+    </classes>
+  
+
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,6 @@
+[INFO ] 2020-08-30 20:36:03.003 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-30 20:36:03.750 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-30 20:36:09.074 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-30 20:36:23.099 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-30 20:36:29.009 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-30 20:36:49.611 [main] TC_Base_Class - Dcument Number Entered

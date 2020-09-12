@@ -1,0 +1,224 @@
+[INFO ] 2020-08-19 11:34:53.784 [main] TC_Base_Class - NewRegistration_Passport_Page3 is Failed
+[ERROR] 2020-08-19 11:34:53.982 [main] TC_Base_Class - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.135)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OJOQL60', ip: '172.22.32.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.135, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:51590}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 037de56b2995e226654acb024d343b21
+*** Element info: {Using=id, value=newpassword}
+[INFO ] 2020-08-19 11:36:11.759 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-19 11:36:11.859 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-19 11:36:13.426 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-19 11:36:26.005 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-19 11:36:36.323 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-19 11:36:59.955 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-19 11:37:25.913 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-19 11:37:31.800 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-19 11:37:41.980 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-19 11:38:43.066 [main] TC_Base_Class - NewRegistration_Passport_Page3 is Failed
+[ERROR] 2020-08-19 11:38:43.066 [main] TC_Base_Class - element not interactable
+  (Session info: chrome=84.0.4147.135)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OJOQL60', ip: '172.22.32.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.135, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:51656}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 59c1db06c85a5cb96773a23ebe1d9e97
+[INFO ] 2020-08-19 11:38:43.698 [main] TC_Base_Class -  FAILED ScreenShot Saved Successfully for : NewRegistration_Passport_Page4
+[INFO ] 2020-08-19 12:14:53.927 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-19 12:14:54.011 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-19 12:14:56.886 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-19 12:15:08.889 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-19 12:15:17.079 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-19 12:15:40.304 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-19 12:15:57.490 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-19 12:15:59.640 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-19 12:16:09.898 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-19 12:17:10.222 [main] TC_Base_Class - NewRegistration_Passport_Page3 is Failed
+[ERROR] 2020-08-19 12:17:10.222 [main] TC_Base_Class - element not interactable
+  (Session info: chrome=84.0.4147.135)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OJOQL60', ip: '172.22.32.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.135, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:52009}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 926a25385e3e4e8449a555d192b53ea0
+[INFO ] 2020-08-19 12:17:10.989 [main] TC_Base_Class -  FAILED ScreenShot Saved Successfully for : NewRegistration_Passport_Page4
+[INFO ] 2020-08-19 12:24:12.173 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-19 12:24:12.201 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-19 12:24:12.999 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-19 12:24:24.140 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-19 12:24:30.243 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-19 12:24:50.783 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-19 12:25:06.599 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-19 12:25:07.686 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-19 12:25:17.977 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-19 12:25:25.828 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-19 12:25:32.295 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-19 12:25:32.864 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-19 12:25:42.964 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-19 12:27:37.115 [main] TC_Base_Class - NewRegistration_Passport_Page3 is Failed
+[ERROR] 2020-08-19 12:27:55.159 [main] TC_Base_Class - element not interactable
+  (Session info: chrome=84.0.4147.135)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OJOQL60', ip: '172.22.32.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.135, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:52168}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 1c184a0cce0f557a8523d9f8e3a7501b
+[INFO ] 2020-08-19 12:28:31.435 [main] TC_Base_Class -  FAILED ScreenShot Saved Successfully for : NewRegistration_Passport_Page4
+[INFO ] 2020-08-19 12:33:26.502 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-19 12:33:26.617 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-19 12:33:49.026 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-19 12:34:01.096 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-19 12:34:04.877 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-19 12:34:25.557 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-19 12:34:41.368 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-19 12:34:42.514 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-19 12:34:52.741 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-19 12:34:59.602 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-19 12:35:05.998 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-19 12:35:06.578 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-19 12:35:16.674 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-19 12:35:46.892 [main] TC_Base_Class - NewRegistration_Passport_Page3 is Failed
+[ERROR] 2020-08-19 12:35:46.892 [main] TC_Base_Class - element not interactable
+  (Session info: chrome=84.0.4147.135)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OJOQL60', ip: '172.22.32.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.135, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:52300}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0b9d0a4f0eb23990341b0fc3dcae632e
+[INFO ] 2020-08-19 12:35:47.454 [main] TC_Base_Class -  FAILED ScreenShot Saved Successfully for : NewRegistration_Passport_Page4
+[INFO ] 2020-08-19 12:39:42.865 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-19 12:39:43.014 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-19 12:39:44.609 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-19 12:39:56.721 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-19 12:40:02.193 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-19 12:40:22.857 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-19 12:40:38.648 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-19 12:40:39.252 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-19 12:40:49.450 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-19 12:40:56.219 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-19 12:41:02.638 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-19 12:41:03.207 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-19 12:41:13.328 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-19 12:42:24.123 [main] TC_Base_Class - NewRegistration_Passport_Page3 is Failed
+[ERROR] 2020-08-19 12:42:49.395 [main] TC_Base_Class - element not interactable
+  (Session info: chrome=84.0.4147.135)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OJOQL60', ip: '172.22.32.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.135, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:52412}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 8146a1be21fa4d7085aa7c6a3d4431f2
+[INFO ] 2020-08-19 12:42:50.383 [main] TC_Base_Class -  FAILED ScreenShot Saved Successfully for : NewRegistration_Passport_Page4
+[ERROR] 2020-08-19 12:43:33.291 [main] TC_Base_Class - Sending the email to the following server failed : smtp.googlemail.com:25
+[INFO ] 2020-08-19 12:50:37.559 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-19 12:50:37.758 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-19 12:50:45.627 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-19 12:51:00.395 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-19 12:51:05.752 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-19 12:51:27.237 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-19 12:51:52.065 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-19 12:51:58.483 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-19 12:52:08.737 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-19 12:53:09.277 [main] TC_Base_Class - NewRegistration_Passport_Page3 is Failed
+[ERROR] 2020-08-19 12:53:09.277 [main] TC_Base_Class - element not interactable
+  (Session info: chrome=84.0.4147.135)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OJOQL60', ip: '172.22.32.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.135, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:52582}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 09b6f10f01f81a45fbe18f434bacdb91
+[INFO ] 2020-08-19 12:53:10.048 [main] TC_Base_Class -  FAILED ScreenShot Saved Successfully for : NewRegistration_Passport_Page4
+[ERROR] 2020-08-19 12:53:25.386 [main] TC_Base_Class - Sending the email to the following server failed : smtp.gmail.com:25
+[INFO ] 2020-08-19 13:10:54.707 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-19 13:10:54.880 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-19 13:11:10.730 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-19 13:11:27.214 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-19 13:11:34.360 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-19 13:11:56.856 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-19 13:12:13.063 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-19 13:12:19.898 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-19 13:12:30.583 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-19 13:12:37.611 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-19 13:12:44.000 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-19 13:12:45.070 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-19 13:12:55.198 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-19 13:13:25.495 [main] TC_Base_Class - NewRegistration_Passport_Page3 is Failed
+[ERROR] 2020-08-19 13:13:25.495 [main] TC_Base_Class - element not interactable
+  (Session info: chrome=84.0.4147.135)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OJOQL60', ip: '172.22.32.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.135, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:52958}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 815a8699be8e7194bf82a231d0dfb56d
+[INFO ] 2020-08-19 13:13:26.936 [main] TC_Base_Class -  FAILED ScreenShot Saved Successfully for : NewRegistration_Passport_Page4
+[ERROR] 2020-08-19 13:13:55.229 [main] TC_Base_Class - Sending the email to the following server failed : smtp.gmail.com:465
+[INFO ] 2020-08-19 13:17:26.792 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-19 13:17:26.940 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-19 13:17:40.469 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-19 13:17:52.600 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-19 13:18:01.521 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-19 13:18:22.989 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-19 13:18:38.933 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-19 13:18:40.888 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-19 13:18:51.218 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-19 13:18:58.367 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-19 13:19:04.776 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-19 13:19:05.385 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-19 13:19:15.490 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-19 13:19:45.769 [main] TC_Base_Class - NewRegistration_Passport_Page3 is Failed
+[ERROR] 2020-08-19 13:19:45.769 [main] TC_Base_Class - element not interactable
+  (Session info: chrome=84.0.4147.135)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OJOQL60', ip: '172.22.32.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.135, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:53107}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 3c66e4735f53b48b946b0477907a4d46
+[INFO ] 2020-08-19 13:19:46.398 [main] TC_Base_Class -  FAILED ScreenShot Saved Successfully for : NewRegistration_Passport_Page4
+[ERROR] 2020-08-19 13:20:05.482 [main] TC_Base_Class - Sending the email to the following server failed : smtp.gmail.com:465
+[INFO ] 2020-08-19 13:22:42.038 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-19 13:22:42.141 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-19 13:22:43.278 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-19 13:22:57.464 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-19 13:23:06.008 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-19 13:23:27.129 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-19 13:23:43.087 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-19 13:23:43.668 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-19 13:23:53.869 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-19 13:24:00.602 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-19 13:24:07.024 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-19 13:24:07.634 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-19 13:24:17.763 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-19 13:24:48.029 [main] TC_Base_Class - NewRegistration_Passport_Page3 is Failed
+[ERROR] 2020-08-19 13:24:48.030 [main] TC_Base_Class - element not interactable
+  (Session info: chrome=84.0.4147.135)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OJOQL60', ip: '172.22.32.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.135, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:53220}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 04ec46fb87afa7e8cfc78ef9d4555e3d
+[INFO ] 2020-08-19 13:24:48.643 [main] TC_Base_Class -  FAILED ScreenShot Saved Successfully for : NewRegistration_Passport_Page4
+[ERROR] 2020-08-19 13:25:07.058 [main] TC_Base_Class - Sending the email to the following server failed : smtp.gmail.com:465
+[INFO ] 2020-08-19 13:29:52.457 [main] TC_Base_Class - --------------------------------------------------------------------------------------------------------/
+[INFO ] 2020-08-19 13:29:52.663 [main] TC_Base_Class - Browser opened & URL entered is Successful
+[INFO ] 2020-08-19 13:29:56.061 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page1
+[INFO ] 2020-08-19 13:30:09.342 [main] TC_Base_Class - Click on Register is Successful
+[INFO ] 2020-08-19 13:30:13.387 [main] TC_Base_Class - Passport Option IS selected
+[INFO ] 2020-08-19 13:30:34.943 [main] TC_Base_Class - Dcument Number Entered
+[INFO ] 2020-08-19 13:30:50.770 [main] TC_Base_Class - Passport Image is uploaded successfully
+[INFO ] 2020-08-19 13:30:51.886 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page2
+[INFO ] 2020-08-19 13:31:02.159 [main] TC_Base_Class - Page is submitted successfully
+[INFO ] 2020-08-19 13:31:08.893 [main] TC_Base_Class - EmailID is entered successfully in Page2
+[INFO ] 2020-08-19 13:31:15.277 [main] TC_Base_Class - PhoneNo is entered successfully in Page2
+[INFO ] 2020-08-19 13:31:16.068 [main] TC_Base_Class - ScreenShot Saved Successfully for : NewRegistration_Passport_Page3
+[INFO ] 2020-08-19 13:31:26.163 [main] TC_Base_Class - Page 2 Form is submitted successfully
+[INFO ] 2020-08-19 13:31:56.511 [main] TC_Base_Class - NewRegistration_Passport_Page3 is Failed
+[ERROR] 2020-08-19 13:31:56.512 [main] TC_Base_Class - element not interactable
+  (Session info: chrome=84.0.4147.135)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OJOQL60', ip: '172.22.32.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.135, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:53342}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: e5ce81bfd4289dfb506a1cd9e572e60f
+[INFO ] 2020-08-19 13:31:57.393 [main] TC_Base_Class -  FAILED ScreenShot Saved Successfully for : NewRegistration_Passport_Page4
+[ERROR] 2020-08-19 13:32:18.438 [main] TC_Base_Class - Sending the email to the following server failed : smtp.gmail.com:465
